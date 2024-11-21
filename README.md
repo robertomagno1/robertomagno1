@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi there!<br>I'm currently pursuing a Master's degree in Data Science at La Sapienza University.<br>I'm passionate about Machine Learning, Deep Learning, and Computer Vision....  basically anything that involves turning data into amazing solutions! 🚀<br><br>📚 Always learning <br>💡 Always building<br>🌟 Let's create something incredible together!<br><br>
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-magno-mazzotta/)
 
